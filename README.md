@@ -4,12 +4,13 @@
 - _✏️ estou aprendendo **Javascript**_
 - _🎯 me dedicando a **back end**_
 - _📭 Email: mateusmb2006@gmail.com_
-- _⌛ idade:15_
+- _⌛ idade: **15** anos_
 - ---
-<div align="center">
+<div align="center" style"display: inline_block">
   <a href="https://github.com/MateusMB2006">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MateusMB2006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMB2006&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMB2006&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
  </div>
   
   <div style="display: inline_block"><br>
